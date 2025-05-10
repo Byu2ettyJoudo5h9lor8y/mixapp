@@ -9,3 +9,6 @@ NoteNest helps you organize notes with tags, search, and cross-device syncing.
 ## Installation
 1. Clone the repository: `git clone https://github.com/user/notenest.git`
 2. Install dependencies: `npm install`
+## Quick Start
+Launch NoteNest with: `npm run start`
+Open in browser: `http://localhost:3000`.
