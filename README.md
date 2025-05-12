@@ -12,3 +12,6 @@ NoteNest helps you organize notes with tags, search, and cross-device syncing.
 ## Quick Start
 Launch NoteNest with: `npm run start`
 Open in browser: `http://localhost:3000`.
+## System Requirements
+- Node.js 16.0+
+- Browser: Chrome, Firefox, or Safari
