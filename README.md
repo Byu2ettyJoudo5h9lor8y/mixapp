@@ -17,3 +17,5 @@ Open in browser: `http://localhost:3000`.
 - Browser: Chrome, Firefox, or Safari
 ## Usage Example
 
+## Contributing
+We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
