@@ -21,3 +21,5 @@ Open in browser: `http://localhost:3000`.
 We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 ## License
 NoteNest is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+## Testing
+Run tests with: `npm test`
