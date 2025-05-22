@@ -23,3 +23,6 @@ We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 NoteNest is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 ## Testing
 Run tests with: `npm test`
+## FAQ
+Q: Can I sync notes across devices?
+A: Yes, enable syncing in [sync.md](docs/sync.md).
