@@ -26,3 +26,5 @@ Run tests with: `npm test`
 ## FAQ
 Q: Can I sync notes across devices?
 A: Yes, enable syncing in [sync.md](docs/sync.md).
+## Community
+Join our community on [Reddit](https://reddit.com/r/notenest) for updates and support.
