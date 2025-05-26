@@ -28,3 +28,4 @@ Q: Can I sync notes across devices?
 A: Yes, enable syncing in [sync.md](docs/sync.md).
 ## Community
 Join our community on [Reddit](https://reddit.com/r/notenest) for updates and support.
+[![Build Status](https://github.com/user/notenest/workflows/CI/badge.svg)](https://github.com/user/notenest/actions)
